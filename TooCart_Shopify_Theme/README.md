@@ -1,0 +1,1 @@
+TooCart Shopify Theme Starter - Ready to connect to Shopify via GitHub.
